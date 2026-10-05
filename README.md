@@ -1,26 +1,43 @@
-This is my personal website that I created to introduce myself and share a little about my education, interests, skills, and projects.
-About Me
+My Website and Python Practice
 
-My name is Fahima Khal Shayeq. I am majoring in Computer Science, and minor in Mathematics. I am interested in Artificial Intelligence, programming, and learning new technologies.
+Hello Everyone! 
+My name is Fahima Khal Shayeq and I am majoring in computer science and minoring in Mathematics.
 
-What is on the Website: 
-A short introduction about me
-My education
-My skills
-My projects
-My interests
-Contact information
-Technologies I Used
+This repository contains my personal website and some of the Python programs I have written while learning programming at my python for dat science class.
+
+About Me:
+
+I am interested in Computer Science, Mathematics, Artificial Intelligence, and programming. I enjoy learning new technologies and improving my skills by working on small projects and practice problems.
+
+What I Am Learning:
+
+Python
 HTML
 CSS
 JavaScript
+Git and GitHub
 
-Why I Made This Website:
+Python Practice
 
-I made this website to practice web development and create a place where I can share my work and learning journey. I also plan to keep improving it as I learn more.
+This repository includes some of my Python practice programs. I use these programs to practice basic programming concepts such as:
 
-Future Plans:
+Lists
+Loops
+Conditions
+Calculations
+Problem solving
+Working with numbers
 
-I would like to add more projects and improve the design and features of the website over time.
+My Website:
 
-Thank you for visiting my project!
+I created my personal website to introduce myself and share information about my education, skills, interests, and projects.
+
+I also use it to practice HTML, CSS, and JavaScript.
+
+My Goal:
+
+I want to continue improving my programming skills and gradually work on bigger projects, especially projects related to Artificial Intelligence and Mathematics.
+
+I will keep updating this repository as I learn and create new projects.
+
+Thank you for visiting my repository!
