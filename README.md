@@ -1,43 +1,24 @@
-My Website and Python Practice
+Hello Everyone, I am Fahima Khal Shayeq!
 
-Hello Everyone! 
-My name is Fahima Khal Shayeq and I am majoring in computer science and minoring in Mathematics.
+Welcome to my GitHub profile!
 
-This repository contains my personal website and some of the Python programs I have written while learning programming at my python for dat science class.
+I am a Computer Science student with a minor in Applied Mathematics. I am interested in Artificial Intelligence, Machine Learning, and software development.
 
-About Me:
+About Me
+- Currently studying Computer Science.
+- Learning Python and software development.
+- Interested in Artificial Intelligence and Machine Learning.
+- Building projects to improve my programming and problem-solving skills.
 
-I am interested in Computer Science, Mathematics, Artificial Intelligence, and programming. I enjoy learning new technologies and improving my skills by working on small projects and practice problems.
+Programming Skills
+- Python
+- Git and GitHub
+- Mathematics
 
-What I Am Learning:
+Projects
+- Grocery Shopping Billing System
+- Inventory Transaction Management
+- Python Programming Exercises
 
-Python
-HTML
-CSS
-JavaScript
-Git and GitHub
-
-Python Practice
-
-This repository includes some of my Python practice programs. I use these programs to practice basic programming concepts such as:
-
-Lists
-Loops
-Conditions
-Calculations
-Problem solving
-Working with numbers
-
-My Website:
-
-I created my personal website to introduce myself and share information about my education, skills, interests, and projects.
-
-I also use it to practice HTML, CSS, and JavaScript.
-
-My Goal:
-
-I want to continue improving my programming skills and gradually work on bigger projects, especially projects related to Artificial Intelligence and Mathematics.
-
-I will keep updating this repository as I learn and create new projects.
-
-Thank you for visiting my repository!
+Goals
+I am continuously learning and working on projects to strengthen my programming skills and explore the field of Artificial Intelligence.
